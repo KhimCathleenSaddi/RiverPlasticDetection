@@ -1,0 +1,11 @@
+#DS MIX
+#train: ./ds_mixed/train/images  
+#val: ./ds_mixed/valid/images
+#test: ./ds_mixed/test/images
+
+
+# number of classes
+nc: 1
+
+# class names 
+names: [ 'Plastic']
